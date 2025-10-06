@@ -15,26 +15,23 @@ You can find me on:
 </p>
 
 ---
-
 ## 🛠️ Technologies & Tools
 
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Language-Scratch-informational?style=flat&logo=scratch&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=red)
-![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=yellow)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Platform-GitHub-informational?style=flat&logo=github&logoColor=white&color=black)
-
----
-
-## 🧰 IDEs I Use
-
-![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/IDE-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
-![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=purple)
-![](https://img.shields.io/badge/IDE-Code::Blocks-informational?style=flat&logo=codeblocks&logoColor=white&color=darkgreen)
-![](https://img.shields.io/badge/IDE-Scratch-informational?style=flat&logo=scratch&logoColor=white&color=orange)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scratch/scratch-original.svg" alt="Scratch" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+</p>
 
 ---
 
