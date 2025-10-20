@@ -65,3 +65,15 @@ You can find me on:
 ---
 
 > ✨ *"Every line of code is a step forward in my journey to becoming a software engineer."*
+>
+---
+### 🌍 Languages
+<div style="display: flex; flex-direction: column; gap: 6px; font-size: 16px;">
+
+  <div>🇹🇳 <strong>Arabic:</strong> Native language</div>
+  <div>🇫🇷 <strong>French:</strong> Second language</div>
+  <div>🇬🇧 <strong>English:</strong> Fluent</div>
+  <div>🇹🇷 <strong>Turkish:</strong> Beginner (basic understanding)</div>
+  <div>🇮🇹 <strong>Italian:</strong> Beginner (basic understanding)</div>
+
+</div>
