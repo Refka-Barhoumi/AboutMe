@@ -14,6 +14,15 @@ You can find me on:
   </a>
   &nbsp;
 
+---
+
+## 📚 Currently Learning
+
+- Strengthening my problem-solving skills in **Algorithms and Data Structures**
+- Improving my understanding of **Object-Oriented Programming (OOP)** with **Java**
+- Learning the basics of **Web Development** (HTML, CSS, JavaScript)
+- Exploring **Database Management Systems (MySQL, SQL)**
+- Practicing **Version Control** using **Git** and **GitHub**
 
 ---
 ## 🛠️ Technologies & Tools
@@ -32,17 +41,6 @@ You can find me on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="30" height="30"/>
 </p>
-
-
----
-
-## 📚 Currently Learning
-
-- Strengthening my problem-solving skills in **Algorithms and Data Structures**
-- Improving my understanding of **Object-Oriented Programming (OOP)** with **Java**
-- Learning the basics of **Web Development** (HTML, CSS, JavaScript)
-- Exploring **Database Management Systems (MySQL, SQL)**
-- Practicing **Version Control** using **Git** and **GitHub**
 
 ---
 
