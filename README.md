@@ -46,7 +46,7 @@ You can find me on:
 
 ---
 
-##🌐 Connect withh Me
+##🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/inbarhoumi-refka--85b8ba387/" target="_blank">
