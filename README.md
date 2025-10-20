@@ -59,14 +59,17 @@ You can find me on:
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/inbarhoumi-refka--85b8ba387/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/barhoumi-refka-85b8ba387/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;"/>
   </a>
-  &nbsp;
   <a href="mailto:barhoumirefka@fstsbz.u-kairouan.tn" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://replit.com/@barhoumirefka2" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" alt="Replit" width="40" height="40" style="margin-right: 15px;"/>
   </a>
 </p>
+
 
 ---
 
