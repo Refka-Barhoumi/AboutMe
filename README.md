@@ -51,8 +51,8 @@ You can find me on:
   <div>🇹🇳 <strong>Arabic:</strong> Native language</div>
   <div>🇫🇷 <strong>French:</strong> Second language</div>
   <div>🇬🇧 <strong>English:</strong> Fluent</div>
-  <div>🇹🇷 <strong>Turkish:</strong> Beginner (basic understanding)</div>
-  <div>🇮🇹 <strong>Italian:</strong> Beginner (basic understanding)</div>
+  <div>🇹🇷 <strong>Turkish:</strong> Beginner </div>
+  <div>🇮🇹 <strong>Italian:</strong> Beginner </div>
 
 ---
 
