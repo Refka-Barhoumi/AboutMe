@@ -38,9 +38,8 @@ Check out some of my work on the following platforms:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" alt="Replit" width="40" height="40" style="margin-right: 20px;"/>
   </a>
 </p>
+
 ---
-
-
 ### 🌍 Languages
 <div style="display: flex; flex-direction: column; gap: 6px; font-size: 16px;">
 
