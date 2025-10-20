@@ -45,28 +45,6 @@ You can find me on:
 </p>
 
 ---
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/inbarhoumi-refka--85b8ba387/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/refkabrahimi" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-> ✨ *"Every line of code is a step forward in my journey to becoming a software engineer."*
->
----
 ### 🌍 Languages
 <div style="display: flex; flex-direction: column; gap: 6px; font-size: 16px;">
 
@@ -76,4 +54,23 @@ You can find me on:
   <div>🇹🇷 <strong>Turkish:</strong> Beginner (basic understanding)</div>
   <div>🇮🇹 <strong>Italian:</strong> Beginner (basic understanding)</div>
 
-</div>
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/inbarhoumi-refka--85b8ba387/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="mailto:barhoumirefka@fstsbz.u-kairouan.tn" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+> ✨ *"Every line of code is a step forward in my journey to becoming a software engineer."*
+>
+---
+
