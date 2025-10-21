@@ -26,48 +26,6 @@ You can find me on:
 - Practicing **Version Control** using **Git** and **GitHub**
 
 ---
-## 💻 My Projects
-
-Check out some of my work on the following platforms:
-
-<p align="left">
-  <a href="https://github.com/Refkacs50" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://replit.com/@barhoumirefka2" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" alt="Replit" width="40" height="40" style="margin-right: 20px;"/>
-  </a>
-</p>
-
----
-### 🌍 Languages
-<div style="display: flex; flex-direction: column; gap: 6px; font-size: 16px;">
-
-  <div>🇹🇳 <strong>Arabic:</strong> Native language</div>
-  <div>🇫🇷 <strong>French:</strong> Second language</div>
-  <div>🇬🇧 <strong>English:</strong> Fluent</div>
-  <div>🇹🇷 <strong>Turkish:</strong> Beginner </div>
-  <div>🇮🇹 <strong>Italian:</strong> Beginner </div>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/barhoumi-refka-85b8ba387/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;"/>
-  </a>
-  <a href="mailto:barhoumirefka@fstsbz.u-kairouan.tn" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" style="margin-right: 15px;"/>
-  </a>
-</p>
-
-
----
-
-> ✨ *"Every line of code is a step forward in my journey to becoming a software engineer."*
->
----
 ## 🛠️ Technologies & Tools
 
 <p align="left">
@@ -88,4 +46,45 @@ Check out some of my work on the following platforms:
 </p>
 
 ---
+
+## 💻 My Projects
+
+Check out some of my work on the following platforms:
+
+<p align="left">
+  <a href="https://github.com/Refkacs50" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 20px;"/>
+  </a>
+  <a href="https://replit.com/@barhoumirefka2" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" alt="Replit" width="40" height="40" style="margin-right: 20px;"/>
+  </a>
+</p>
+
+---
+
+### 🌍 Languages
+
+<div style="display: flex; flex-direction: column; gap: 6px; font-size: 16px;">
+
+  <div>🇹🇳 <strong>Arabic:</strong> Native language</div>
+  <div>🇫🇷 <strong>French:</strong> Second language</div>
+  <div>🇬🇧 <strong>English:</strong> Fluent</div>
+  <div>🇹🇷 <strong>Turkish:</strong> Beginner </div>
+  <div>🇮🇹 <strong>Italian:</strong> Beginner </div>
+  
+---
+
+> ✨ *"Every line of code is a step forward in my journey to becoming a software engineer."*
+>
+---
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/barhoumi-refka-85b8ba387/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="mailto:barhoumirefka@fstsbz.u-kairouan.tn" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+</p>
 
